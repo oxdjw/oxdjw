@@ -1,7 +1,7 @@
-## *Hi! me JungTae*
+## *Hi! me JungTae*😬
 > *Introduce Myself*
->   + *YangChung HighSchool*
->   + *Soongsil Univ. Software*
+>   + 🔫*YangChung HighSchool*
+>   + 🔫*Soongsil Univ. Software*
 
 ##### C, C++, Java*
 
