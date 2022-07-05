@@ -2,6 +2,8 @@
 > *Introduce Myself*
 >   + 🔫*YangChung HighSchool*
 >   + 🔫*Soongsil Univ. Software*
+> *Contact Me*
+>   + 🎁*1318love1318@gmail.com*
 
 ##### *C, C++, Java*
 
