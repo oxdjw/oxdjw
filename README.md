@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi me JungTae
+> Introduce Myself
+>   > YangChung HighSchool
+>   > Soongsil Univ. Software
+
+### C, C++, Java
 
 <!--
 **JungTaeKwon/JungTaeKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
