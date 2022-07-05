@@ -5,7 +5,7 @@
 
 
 > *Contact Me*
->   + 🎁*1318love1318@gmail.com*
+>   + 🎁*oxdjww@gmail.com*
 
 ##### *C, C++, Java*
 
